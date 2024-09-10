@@ -1,6 +1,6 @@
-# RAL Color Palette for Sure Cuts A Lot Pro
+# RAL Classic Color Palette for Sure Cuts A Lot Pro
 
-Standard **RAL** colors reference for usage in the **Sure Cuts A Lot Pro** application.
+**RAL** classic colors reference for usage in the **Sure Cuts A Lot Pro** application.
 
 ## Install
 
