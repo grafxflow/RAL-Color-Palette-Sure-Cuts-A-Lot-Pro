@@ -21,3 +21,4 @@ C:\program files\craft edge\sure cuts a lot 6 pro\palettes\
 Versions:
 
 * 1.0.0 Initial Copy of RAL color reference
+* 1.0.1 Added 2 new colors ['RAL 2017 - RAL Orange', 'RAL 6039 - Fibrous Green']
