@@ -1,0 +1,42 @@
+<xml version="1.0">
+
+<palette name="Ral Color Palette 6000 6038 Green" lock="true">
+<c m="rgb" r="49" g="102" b="80" n="RAL 6000 - Patina Green"/>
+<c m="rgb" r="40" g="114" b="51" n="RAL 6001 - Emerald Green"/>
+<c m="rgb" r="45" g="87" b="44" n="RAL 6002 - Leaf Green"/>
+<c m="rgb" r="66" g="70" b="50" n="RAL 6003 - Olive Green"/>
+<c m="rgb" r="31" g="58" b="61" n="RAL 6004 - Blue Green"/>
+<c m="rgb" r="47" g="69" b="56" n="RAL 6005 - Moss Green"/>
+<c m="rgb" r="62" g="59" b="50" n="RAL 6006 - Grey Olive"/>
+<c m="rgb" r="52" g="59" b="41" n="RAL 6007 - Bottle Green"/>
+<c m="rgb" r="57" g="53" b="42" n="RAL 6008 - Brown Green"/>
+<c m="rgb" r="49" g="55" b="43" n="RAL 6009 - Fir Green"/>
+<c m="rgb" r="53" g="104" b="45" n="RAL 6010 - Grass Green"/>
+<c m="rgb" r="88" g="114" b="70" n="RAL 6011 - Reseda Green"/>
+<c m="rgb" r="52" g="62" b="64" n="RAL 6012 - Black Green"/>
+<c m="rgb" r="108" g="113" b="86" n="RAL 6013 - Reed Green"/>
+<c m="rgb" r="71" g="64" b="46" n="RAL 6014 - Yellow Olive"/>
+<c m="rgb" r="59" g="60" b="54" n="RAL 6015 - Black Olive"/>
+<c m="rgb" r="30" g="89" b="69" n="RAL 6016 - Turquoise Green"/>
+<c m="rgb" r="76" g="145" b="65" n="RAL 6017 - May Green"/>
+<c m="rgb" r="87" g="166" b="57" n="RAL 6018 - Yellow Green"/>
+<c m="rgb" r="189" g="236" b="182" n="RAL 6019 - Pastel Green"/>
+<c m="rgb" r="46" g="58" b="35" n="RAL 6020 - Chrome Green"/>
+<c m="rgb" r="137" g="172" b="118" n="RAL 6021 - Pale Green"/>
+<c m="rgb" r="37" g="34" b="102" n="RAL 6022 - Olive Drab"/>
+<c m="rgb" r="48" g="132" b="70" n="RAL 6024 - Traffic Green"/>
+<c m="rgb" r="61" g="100" b="46" n="RAL 6025 - Fern Green"/>
+<c m="rgb" r="1" g="93" b="82" n="RAL 6026 - Opal Green"/>
+<c m="rgb" r="132" g="195" b="190" n="RAL 6027 - Light Green"/>
+<c m="rgb" r="44" g="85" b="69" n="RAL 6028 - Pine Green"/>
+<c m="rgb" r="32" g="96" b="61" n="RAL 6029 - Mint Green"/>
+<c m="rgb" r="49" g="127" b="67" n="RAL 6032 - Signal Green"/>
+<c m="rgb" r="73" g="126" b="118" n="RAL 6033 - Mint Turquoise"/>
+<c m="rgb" r="127" g="181" b="181" n="RAL 6034 - Pastel Turquoise"/>
+<c m="rgb" r="28" g="84" b="45" n="RAL 6035 - Pearl Green"/>
+<c m="rgb" r="25" g="55" b="55" n="RAL 6036 - Pearl Opal Green"/>
+<c m="rgb" r="0" g="143" b="57" n="RAL 6037 - Pure Green"/>
+<c m="rgb" r="0" g="187" b="45" n="RAL 6038 - Luminous Green"/>
+</palette>
+
+</xml>

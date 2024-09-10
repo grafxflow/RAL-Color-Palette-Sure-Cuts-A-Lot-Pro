@@ -1,0 +1,18 @@
+<xml version="1.0">
+
+<palette name="Ral Color Palette 4001 4012 Purple" lock="true">
+<c m="rgb" r="109" g="63" b="91" n="RAL 4001 - Red Lilac"/>
+<c m="rgb" r="146" g="43" b="62" n="RAL 4002 - Red Violet"/>
+<c m="rgb" r="222" g="76" b="138" n="RAL 4003 - Heather Violet"/>
+<c m="rgb" r="110" g="28" b="52" n="RAL 4004 - Claret Violet"/>
+<c m="rgb" r="108" g="70" b="117" n="RAL 4005 - Blue Lilac"/>
+<c m="rgb" r="160" g="52" b="114" n="RAL 4006 - Traffic Purple"/>
+<c m="rgb" r="102" g="102" b="102" n="RAL 4007 - Purple Violet"/>
+<c m="rgb" r="146" g="78" b="125" n="RAL 4008 - Signal Violet"/>
+<c m="rgb" r="164" g="125" b="144" n="RAL 4009 - Pastel Violet"/>
+<c m="rgb" r="215" g="45" b="109" n="RAL 4010 - Telemagenta"/>
+<c m="rgb" r="134" g="115" b="161" n="RAL 4011 - Pearl Violet"/>
+<c m="rgb" r="108" g="104" b="129" n="RAL 4012 - Pearl Black Berry"/>
+</palette>
+
+</xml>
