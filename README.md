@@ -18,7 +18,13 @@ Macintosh HD/Applications/Sure Cuts A Lot 6 Pro/Sure Cuts A Lot 6 Pro.app/Conten
 C:\program files\craft edge\sure cuts a lot 6 pro\palettes\
 ```
 
-Versions:
+### Screengrabs
+
+![Palette Screengrab 1](readme-reference/screenshot_palette01.png)
+
+![Palette Screengrab 1](readme-reference/screenshot_palette02.png)
+
+### Versions:
 
 * 1.0.0 Initial Copy of RAL color reference
 * 1.0.1 Added 2 new colors ['RAL 2017 - RAL Orange', 'RAL 6039 - Fibrous Green']
