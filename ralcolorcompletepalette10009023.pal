@@ -47,31 +47,31 @@
 <c m="rgb" r="146" g="62" b="37" n="RAL 2013 - Pearl Orange"/>
 <c m="rgb" r="220" g="91" b="0" n="RAL 2017 - RAL Orange"/>
 
-<c m="rgb" r="175" g="43" b="30" n="RAL 3000 - Flame Red"/>
-<c m="rgb" r="165" g="32" b="25" n="RAL 3001 - Signal Red"/>
-<c m="rgb" r="162" g="35" b="29" n="RAL 3002 - Carmine Red"/>
-<c m="rgb" r="155" g="17" b="30" n="RAL 3003 - Ruby Red"/>
-<c m="rgb" r="117" g="21" b="30" n="RAL 3004 - Purple Red"/>
-<c m="rgb" r="94" g="33" b="41" n="RAL 3005 - Wine Red"/>
-<c m="rgb" r="53" g="31" b="33" n="RAL 3007 - Black Red"/>
-<c m="rgb" r="100" g="36" b="36" n="RAL 3009 - Oxide Red"/>
-<c m="rgb" r="120" g="31" b="25" n="RAL 3011 - Brown Red"/>
-<c m="rgb" r="193" g="135" b="107" n="RAL 3012 - Beige Red"/>
-<c m="rgb" r="161" g="35" b="18" n="RAL 3013 - Tomato Red"/>
-<c m="rgb" r="211" g="110" b="112" n="RAL 3014 - Antique Pink"/>
-<c m="rgb" r="234" g="137" b="154" n="RAL 3015 - Light Pink"/>
-<c m="rgb" r="179" g="40" b="33" n="RAL 3016 - Coral Red"/>
-<c m="rgb" r="230" g="50" b="68" n="RAL 3017 - Rose"/>
-<c m="rgb" r="213" g="48" b="50" n="RAL 3018 - Strawberry Red"/>
-<c m="rgb" r="204" g="6" b="5" n="RAL 3020 - Traffic Red"/>
-<c m="rgb" r="217" g="80" b="48" n="RAL 3022 - Salmon Pink"/>
-<c m="rgb" r="248" g="0" b="0" n="RAL 3024 - Luminous Red"/>
-<c m="rgb" r="254" g="0" b="0" n="RAL 3026 - Luminous Bright Red"/>
-<c m="rgb" r="197" g="29" b="52" n="RAL 3027 - Raspberry Red"/>
-<c m="rgb" r="203" g="50" b="52" n="RAL 3028 - Pure Red"/>
-<c m="rgb" r="179" g="36" b="40" n="RAL 3031 - Orient Red"/>
-<c m="rgb" r="114" g="20" b="34" n="RAL 3032 - Pearl Ruby Red"/>
-<c m="rgb" r="180" g="76" b="67" n="RAL 3033 - Pearl Pink"/>
+<c m="rgb" r="167" g="41" b="32" n="RAL 3000 - Flame Red"/>
+<c m="rgb" r="155" g="36" b="35" n="RAL 3001 - Signal Red"/>
+<c m="rgb" r="155" g="35" b="33" n="RAL 3002 - Carmine Red"/>
+<c m="rgb" r="134" g="26" b="34" n="RAL 3003 - Ruby Red"/>
+<c m="rgb" r="107" g="28" b="35" n="RAL 3004 - Purple Red"/>
+<c m="rgb" r="89" g="25" b="31" n="RAL 3005 - Wine Red"/>
+<c m="rgb" r="62" g="32" b="34" n="RAL 3007 - Black Red"/>
+<c m="rgb" r="109" g="52" b="45" n="RAL 3009 - Oxide Red"/>
+<c m="rgb" r="121" g="36" b="35" n="RAL 3011 - Brown Red"/>
+<c m="rgb" r="198" g="132" b="109" n="RAL 3012 - Beige Red"/>
+<c m="rgb" r="151" g="46" b="37" n="RAL 3013 - Tomato Red"/>
+<c m="rgb" r="203" g="115" b="117" n="RAL 3014 - Antique Pink"/>
+<c m="rgb" r="216" g="160" b="166" n="RAL 3015 - Light Pink"/>
+<c m="rgb" r="166" g="61" b="47" n="RAL 3016 - Coral Red"/>
+<c m="rgb" r="203" g="85" b="93" n="RAL 3017 - Rose"/>
+<c m="rgb" r="199" g="63" b="74" n="RAL 3018 - Strawberry Red"/>
+<c m="rgb" r="187" g="30" b="16" n="RAL 3020 - Traffic Red"/>
+<c m="rgb" r="207" g="105" b="85" n="RAL 3022 - Salmon Pink"/>
+<c m="rgb" r="255" g="45" b="33" n="RAL 3024 - Luminous Red"/>
+<c m="rgb" r="255" g="42" b="27" n="RAL 3026 - Luminous Bright Red"/>
+<c m="rgb" r="171" g="39" b="60" n="RAL 3027 - Raspberry Red"/>
+<c m="rgb" r="204" g="44" b="36" n="RAL 3028 - Pure Red"/>
+<c m="rgb" r="166" g="52" b="55" n="RAL 3031 - Orient Red"/>
+<c m="rgb" r="112" g="29" b="35" n="RAL 3032 - Pearl Ruby Red"/>
+<c m="rgb" r="165" g="58" b="45" n="RAL 3033 - Pearl Pink"/>
 
 <c m="rgb" r="109" g="63" b="91" n="RAL 4001 - Red Lilac"/>
 <c m="rgb" r="146" g="43" b="62" n="RAL 4002 - Red Violet"/>
