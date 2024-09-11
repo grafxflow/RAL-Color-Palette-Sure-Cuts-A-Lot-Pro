@@ -1,26 +1,26 @@
 <xml version="1.0">
 
 <palette name="Ral Color Palette 8000 8029 Brown" lock="true">
-<c m="rgb" r="130" g="108" b="52" n="RAL 8000 - Green Brown"/>
-<c m="rgb" r="149" g="95" b="32" n="RAL 8001 - Ochre Brown"/>
-<c m="rgb" r="108" g="59" b="42" n="RAL 8002 - Signal Brown"/>
-<c m="rgb" r="115" g="66" b="34" n="RAL 8003 - Clay Brown"/>
-<c m="rgb" r="142" g="64" b="42" n="RAL 8004 - Copper Brown"/>
-<c m="rgb" r="89" g="53" b="31" n="RAL 8007 - Fawn Brown"/>
-<c m="rgb" r="111" g="79" b="40" n="RAL 8008 - Olive Brown"/>
-<c m="rgb" r="91" g="58" b="41" n="RAL 8011 - Nut Brown"/>
-<c m="rgb" r="89" g="35" b="33" n="RAL 8012 - Red Brown"/>
-<c m="rgb" r="56" g="44" b="30" n="RAL 8014 - Sepia Brown"/>
-<c m="rgb" r="99" g="58" b="52" n="RAL 8015 - Chestnut Brown"/>
-<c m="rgb" r="76" g="47" b="39" n="RAL 8016 - Mahogany Brown"/>
-<c m="rgb" r="69" g="50" b="46" n="RAL 8017 - Chocolate Brown"/>
-<c m="rgb" r="64" g="58" b="58" n="RAL 8019 - Grey Brown"/>
-<c m="rgb" r="33" g="33" b="33" n="RAL 8022 - Black Brown"/>
-<c m="rgb" r="166" g="94" b="46" n="RAL 8023 - Orange Brown"/>
-<c m="rgb" r="121" g="85" b="61" n="RAL 8024 - Beige Brown"/>
-<c m="rgb" r="117" g="92" b="72" n="RAL 8025 - Pale Brown"/>
-<c m="rgb" r="78" g="59" b="49" n="RAL 8028 - Terra Brown"/>
-<c m="rgb" r="118" g="60" b="40" n="RAL 8029 - Pearl Copper"/>
+<c m="rgb" r="137" g="105" b="62" n="RAL 8000 - Green Brown"/>
+<c m="rgb" r="157" g="98" b="43" n="RAL 8001 - Ochre Brown"/>
+<c m="rgb" r="121" g="77" b="62" n="RAL 8002 - Signal Brown"/>
+<c m="rgb" r="126" g="75" b="38" n="RAL 8003 - Clay Brown"/>
+<c m="rgb" r="141" g="73" b="49" n="RAL 8004 - Copper Brown"/>
+<c m="rgb" r="112" g="69" b="42" n="RAL 8007 - Fawn Brown"/>
+<c m="rgb" r="114" g="74" b="37" n="RAL 8008 - Olive Brown"/>
+<c m="rgb" r="90" g="56" b="38" n="RAL 8011 - Nut Brown"/>
+<c m="rgb" r="102" g="51" b="43" n="RAL 8012 - Red Brown"/>
+<c m="rgb" r="74" g="53" b="38" n="RAL 8014 - Sepia Brown"/>
+<c m="rgb" r="94" g="47" b="38" n="RAL 8015 - Chestnut Brown"/>
+<c m="rgb" r="76" g="43" b="32" n="RAL 8016 - Mahogany Brown"/>
+<c m="rgb" r="68" g="47" b="41" n="RAL 8017 - Chocolate Brown"/>
+<c m="rgb" r="61" g="54" b="53" n="RAL 8019 - Grey Brown"/>
+<c m="rgb" r="26" g="23" b="24" n="RAL 8022 - Black Brown"/>
+<c m="rgb" r="164" g="87" b="41" n="RAL 8023 - Orange Brown"/>
+<c m="rgb" r="121" g="80" b="56" n="RAL 8024 - Beige Brown"/>
+<c m="rgb" r="117" g="88" b="71" n="RAL 8025 - Pale Brown"/>
+<c m="rgb" r="81" g="58" b="42" n="RAL 8028 - Terra Brown"/>
+<c m="rgb" r="127" g="64" b="49" n="RAL 8029 - Pearl Copper"/>
 </palette>
 
 </xml>
