@@ -210,20 +210,20 @@
 <c m="rgb" r="81" g="58" b="42" n="RAL 8028 - Terra Brown"/>
 <c m="rgb" r="127" g="64" b="49" n="RAL 8029 - Pearl Copper"/>
 
-<c m="rgb" r="250" g="244" b="227" n="RAL 9001 - Cream"/>
-<c m="rgb" r="231" g="235" b="218" n="RAL 9002 - Grey White"/>
-<c m="rgb" r="244" g="244" b="244" n="RAL 9003 - Signal White"/>
-<c m="rgb" r="40" g="40" b="40" n="RAL 9004 - Signal Black"/>
-<c m="rgb" r="10" g="10" b="10" n="RAL 9005 - Jet Black"/>
-<c m="rgb" r="165" g="165" b="165" n="RAL 9006 - White Aluminium"/>
-<c m="rgb" r="143" g="143" b="143" n="RAL 9007 - Grey Aluminium"/>
-<c m="rgb" r="255" g="255" b="255" n="RAL 9010 - Pure White"/>
-<c m="rgb" r="28" g="28" b="28" n="RAL 9011 - Graphite Black"/>
-<c m="rgb" r="246" g="246" b="246" n="RAL 9016 - Traffic White"/>
-<c m="rgb" r="30" g="30" b="29" n="RAL 9017 - Traffic Black"/>
-<c m="rgb" r="215" g="215" b="215" n="RAL 9018 - Papyrus White"/>
-<c m="rgb" r="156" g="156" b="156" n="RAL 9022 - Pearl Light Grey"/>
-<c m="rgb" r="130" g="130" b="130" n="RAL 9023 - Pearl Dark Grey"/>
+<c m="rgb" r="233" g="224" b="210" n="RAL 9001 - Cream"/>
+<c m="rgb" r="215" g="213" b="203" n="RAL 9002 - Grey White"/>
+<c m="rgb" r="236" g="236" b="231" n="RAL 9003 - Signal White"/>
+<c m="rgb" r="43" g="43" b="44" n="RAL 9004 - Signal Black"/>
+<c m="rgb" r="14" g="14" b="16" n="RAL 9005 - Jet Black"/>
+<c m="rgb" r="161" g="161" b="160" n="RAL 9006 - White Aluminium"/>
+<c m="rgb" r="135" g="133" b="129" n="RAL 9007 - Grey Aluminium"/>
+<c m="rgb" r="241" g="236" b="225" n="RAL 9010 - Pure White"/>
+<c m="rgb" r="39" g="41" b="43" n="RAL 9011 - Graphite Black"/>
+<c m="rgb" r="241" g="240" b="234" n="RAL 9016 - Traffic White"/>
+<c m="rgb" r="42" g="41" b="42" n="RAL 9017 - Traffic Black"/>
+<c m="rgb" r="200" g="203" b="196" n="RAL 9018 - Papyrus White"/>
+<c m="rgb" r="133" g="133" b="131" n="RAL 9022 - Pearl Light Grey"/>
+<c m="rgb" r="121" g="123" b="122" n="RAL 9023 - Pearl Dark Grey"/>
 </palette>
 
 </xml>
