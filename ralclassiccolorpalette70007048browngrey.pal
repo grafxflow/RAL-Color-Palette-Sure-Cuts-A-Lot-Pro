@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 7000 7048 Brown Grey" lock="true">
+<palette name="Ral Classic Color Palette 7000 7048 Brown Grey" lock="true">
 <c m="rgb" r="123" g="133" b="141" n="RAL 7000 - Squirrel Grey"/>
 <c m="rgb" r="139" g="148" b="155" n="RAL 7001 - Silver Grey"/>
 <c m="rgb" r="125" g="121" b="101" n="RAL 7002 - Olive Grey"/>

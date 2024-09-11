@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 1000 1037 Yellow" lock="true">
+<palette name="Ral Classic Color Palette 1000 1037 Yellow" lock="true">
 <c m="rgb" r="197" g="187" b="138" n="RAL 1000 - Green Beige"/>
 <c m="rgb" r="198" g="178" b="134" n="RAL 1001 - Beige"/>
 <c m="rgb" r="199" g="174" b="114" n="RAL 1002 - Sand Yellow"/>

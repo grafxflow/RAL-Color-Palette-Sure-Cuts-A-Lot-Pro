@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 4001 4012 Purple" lock="true">
+<palette name="Ral Classic Color Palette 4001 4012 Purple" lock="true">
 <c m="rgb" r="124" g="91" b="128" n="RAL 4001 - Red Lilac"/>
 <c m="rgb" r="130" g="58" b="75" n="RAL 4002 - Red Violet"/>
 <c m="rgb" r="182" g="90" b="136" n="RAL 4003 - Heather Violet"/>

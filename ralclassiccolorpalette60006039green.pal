@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 6000 6039 Green" lock="true">
+<palette name="Ral Classic Color Palette 6000 6039 Green" lock="true">
 <c m="rgb" r="74" g="115" b="99" n="RAL 6000 - Patina Green"/>
 <c m="rgb" r="64" g="105" b="58" n="RAL 6001 - Emerald Green"/>
 <c m="rgb" r="59" g="91" b="47" n="RAL 6002 - Leaf Green"/>

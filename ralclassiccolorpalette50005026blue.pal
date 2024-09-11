@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 5000 5026 Blue" lock="true">
+<palette name="Ral Classic Color Palette 5000 5026 Blue" lock="true">
 <c m="rgb" r="53" g="73" b="107" n="RAL 5000 - Violet Blue"/>
 <c m="rgb" r="41" g="71" b="99" n="RAL 5001 - Green Blue"/>
 <c m="rgb" r="25" g="50" b="120" n="RAL 5002 - Ultramarine Blue"/>

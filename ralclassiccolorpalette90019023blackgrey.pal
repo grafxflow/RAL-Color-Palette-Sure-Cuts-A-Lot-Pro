@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 9001 9023 Black Grey" lock="true">
+<palette name="Ral Classic Color Palette 9001 9023 Black Grey" lock="true">
 <c m="rgb" r="229" g="225" b="212" n="RAL 9001 - Cream"/>
 <c m="rgb" r="212" g="213" b="205" n="RAL 9002 - Grey White"/>
 <c m="rgb" r="235" g="236" b="234" n="RAL 9003 - Signal White"/>

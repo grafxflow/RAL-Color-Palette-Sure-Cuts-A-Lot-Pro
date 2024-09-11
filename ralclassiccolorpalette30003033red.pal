@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name=""Ral Classic Color Palette 3000 3033 Red" lock="true">
+<palette name="Ral Classic Color Palette 3000 3033 Red" lock="true">
 <c m="rgb" r="150" g="42" b="39" n="RAL 3000 - Flame Red"/>
 <c m="rgb" r="143" g="30" b="36" n="RAL 3001 - Signal Red"/>
 <c m="rgb" r="141" g="31" b="36" n="RAL 3002 - Carmine Red"/>
