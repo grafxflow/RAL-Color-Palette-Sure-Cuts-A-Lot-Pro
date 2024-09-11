@@ -86,31 +86,31 @@
 <c m="rgb" r="110" g="99" b="135" n="RAL 4011 - Pearl Violet"/>
 <c m="rgb" r="107" g="107" b="127" n="RAL 4012 - Pearl Black Berry"/>
 
-<c m="rgb" r="42" g="46" b="75" n="RAL 5000 - Violet Blue"/>
-<c m="rgb" r="31" g="52" b="56" n="RAL 5001 - Green Blue"/>
-<c m="rgb" r="32" g="33" b="79" n="RAL 5002 - Ultramarine Blue"/>
-<c m="rgb" r="29" g="30" b="51" n="RAL 5003 - Saphire blue"/>
-<c m="rgb" r="24" g="23" b="28" n="RAL 5004 - Black Blue"/>
-<c m="rgb" r="30" g="45" b="110" n="RAL 5005 - Signal Blue"/>
-<c m="rgb" r="62" g="95" b="138" n="RAL 5007 - Brillant Blue"/>
-<c m="rgb" r="38" g="37" b="45" n="RAL 5008 - Grey Blue"/>
-<c m="rgb" r="2" g="86" b="105" n="RAL 5009 - Azure Blue"/>
-<c m="rgb" r="14" g="41" b="75" n="RAL 5010 - Gentian Blue"/>
-<c m="rgb" r="35" g="26" b="36" n="RAL 5011 - Steel Blue"/>
-<c m="rgb" r="59" g="131" b="189" n="RAL 5012 - Light Blue"/>
-<c m="rgb" r="30" g="33" b="61" n="RAL 5013 - Cobalt Blue"/>
-<c m="rgb" r="96" g="110" b="140" n="RAL 5014 - Pigeon Blue"/>
-<c m="rgb" r="34" g="113" b="179" n="RAL 5015 - Sky Blue"/>
-<c m="rgb" r="6" g="57" b="113" n="RAL 5017 - Traffic Blue"/>
-<c m="rgb" r="63" g="136" b="143" n="RAL 5018 - Turquoise Blue"/>
-<c m="rgb" r="27" g="85" b="131" n="RAL 5019 - Capri Blue"/>
-<c m="rgb" r="29" g="51" b="74" n="RAL 5020 - Ocean Blue"/>
-<c m="rgb" r="37" g="109" b="123" n="RAL 5021 - Water Blue"/>
-<c m="rgb" r="37" g="40" b="80" n="RAL 5022 - Night Blue"/>
-<c m="rgb" r="73" g="103" b="141" n="RAL 5023 - Distant Blue"/>
-<c m="rgb" r="93" g="155" b="155" n="RAL 5024 - Pastel Blue"/>
-<c m="rgb" r="42" g="100" b="120" n="RAL 5025 - Pearl Gentian Blue"/>
-<c m="rgb" r="16" g="44" b="84" n="RAL 5026 - Pearl Night Blue"/>
+<c m="rgb" r="49" g="79" b="111" n="RAL 5000 - Violet Blue"/>
+<c m="rgb" r="15" g="76" b="100" n="RAL 5001 - Green Blue"/>
+<c m="rgb" r="0" g="56" b="123" n="RAL 5002 - Ultramarine Blue"/>
+<c m="rgb" r="31" g="56" b="85" n="RAL 5003 - Saphire blue"/>
+<c m="rgb" r="25" g="30" b="40" n="RAL 5004 - Black Blue"/>
+<c m="rgb" r="0" g="83" b="135" n="RAL 5005 - Signal Blue"/>
+<c m="rgb" r="55" g="107" b="140" n="RAL 5007 - Brillant Blue"/>
+<c m="rgb" r="43" g="58" b="68" n="RAL 5008 - Grey Blue"/>
+<c m="rgb" r="34" g="95" b="120" n="RAL 5009 - Azure Blue"/>
+<c m="rgb" r="0" g="79" b="124" n="RAL 5010 - Gentian Blue"/>
+<c m="rgb" r="26" g="43" b="60" n="RAL 5011 - Steel Blue"/>
+<c m="rgb" r="0" g="137" b="182" n="RAL 5012 - Light Blue"/>
+<c m="rgb" r="25" g="49" b="83" n="RAL 5013 - Cobalt Blue"/>
+<c m="rgb" r="99" g="125" b="150" n="RAL 5014 - Pigeon Blue"/>
+<c m="rgb" r="0" g="124" b="176" n="RAL 5015 - Sky Blue"/>
+<c m="rgb" r="0" g="91" b="140" n="RAL 5017 - Traffic Blue"/>
+<c m="rgb" r="5" g="139" b="140" n="RAL 5018 - Turquoise Blue"/>
+<c m="rgb" r="0" g="94" b="131" n="RAL 5019 - Capri Blue"/>
+<c m="rgb" r="0" g="65" b="75" n="RAL 5020 - Ocean Blue"/>
+<c m="rgb" r="0" g="117" b="119" n="RAL 5021 - Water Blue"/>
+<c m="rgb" r="34" g="45" b="90" n="RAL 5022 - Night Blue"/>
+<c m="rgb" r="66" g="105" b="140" n="RAL 5023 - Distant Blue"/>
+<c m="rgb" r="96" g="147" b="172" n="RAL 5024 - Pastel Blue"/>
+<c m="rgb" r="33" g="105" b="124" n="RAL 5025 - Pearl Gentian Blue"/>
+<c m="rgb" r="15" g="48" b="82" n="RAL 5026 - Pearl Night Blue"/>
 
 <c m="rgb" r="49" g="102" b="80" n="RAL 6000 - Patina Green"/>
 <c m="rgb" r="40" g="114" b="51" n="RAL 6001 - Emerald Green"/>
