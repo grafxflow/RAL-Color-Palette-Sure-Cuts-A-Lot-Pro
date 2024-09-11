@@ -1,229 +1,230 @@
 <xml version="1.0">
 
 <palette name="Ral Classic Color Complete Palette 1000 9023" lock="true">
-<c m="rgb" r="205" g="186" b="136" n="RAL 1000 - Green Beige"/>
-<c m="rgb" r="208" g="176" b="132" n="RAL 1001 - Beige"/>
-<c m="rgb" r="210" g="170" b="109" n="RAL 1002 - Sand Yellow"/>
-<c m="rgb" r="249" g="168" b="0" n="RAL 1003 - Signal Yellow"/>
-<c m="rgb" r="228" g="158" b="0" n="RAL 1004 - Golden Yellow"/>
-<c m="rgb" r="203" g="142" b="0" n="RAL 1005 - Honey Yellow"/>
-<c m="rgb" r="226" g="144" b="0" n="RAL 1006 - Maize Yellow"/>
-<c m="rgb" r="232" g="140" b="0" n="RAL 1007 - Daffodil Yellow"/>
-<c m="rgb" r="175" g="128" b="79" n="RAL 1011 - Brown Beige"/>
-<c m="rgb" r="221" g="175" b="39" n="RAL 1012 - Lemon Yellow"/>
-<c m="rgb" r="227" g="217" b="198" n="RAL 1013 - Oyster White"/>
-<c m="rgb" r="221" g="196" b="154" n="RAL 1014 - Ivory"/>
-<c m="rgb" r="230" g="210" b="181" n="RAL 1015 - Light Ivory"/>
-<c m="rgb" r="241" g="221" b="56" n="RAL 1016 - Sulfur Yellow"/>
-<c m="rgb" r="246" g="169" b="80" n="RAL 1017 - Saffron Yellow"/>
-<c m="rgb" r="250" g="202" b="48" n="RAL 1018 - Zinc Yellow"/>
-<c m="rgb" r="164" g="143" b="122" n="RAL 1019 - Grey Beige"/>
-<c m="rgb" r="160" g="143" b="101" n="RAL 1020 - Olive Yellow"/>
-<c m="rgb" r="246" g="182" b="0" n="RAL 1021 - Colza Yellow"/>
-<c m="rgb" r="247" g="181" b="0" n="RAL 1023 - Traffic Yellow"/>
-<c m="rgb" r="186" g="143" b="76" n="RAL 1024 - Ochre Yellow"/>
+<c m="rgb" r="197" g="187" b="138" n="RAL 1000 - Green Beige"/>
+<c m="rgb" r="198" g="178" b="134" n="RAL 1001 - Beige"/>
+<c m="rgb" r="199" g="174" b="114" n="RAL 1002 - Sand Yellow"/>
+<c m="rgb" r="230" g="176" b="25" n="RAL 1003 - Signal Yellow"/>
+<c m="rgb" r="210" g="164" b="14" n="RAL 1004 - Golden Yellow"/>
+<c m="rgb" r="188" g="150" b="17" n="RAL 1005 - Honey Yellow"/>
+<c m="rgb" r="207" g="152" b="4" n="RAL 1006 - Maize Yellow"/>
+<c m="rgb" r="212" g="147" b="0" n="RAL 1007 - Daffodil Yellow"/>
+<c m="rgb" r="163" g="132" b="84" n="RAL 1011 - Brown Beige"/>
+<c m="rgb" r="207" g="181" b="57" n="RAL 1012 - Lemon Yellow"/>
+<c m="rgb" r="223" g="219" b="199" n="RAL 1013 - Oyster White"/>
+<c m="rgb" r="212" g="199" b="156" n="RAL 1014 - Ivory"/>
+<c m="rgb" r="222" g="211" b="182" n="RAL 1015 - Light Ivory"/>
+<c m="rgb" r="232" g="226" b="83" n="RAL 1016 - Sulfur Yellow"/>
+<c m="rgb" r="228" g="175" b="86" n="RAL 1017 - Saffron Yellow"/>
+<c m="rgb" r="235" g="211" b="70" n="RAL 1018 - Zinc Yellow"/>
+<c m="rgb" r="156" g="145" b="123" n="RAL 1019 - Grey Beige"/>
+<c m="rgb" r="153" g="145" b="103" n="RAL 1020 - Olive Yellow"/>
+<c m="rgb" r="229" g="192" b="0" n="RAL 1021 - Colza Yellow"/>
+<c m="rgb" r="230" g="190" b="5" n="RAL 1023 - Traffic Yellow"/>
+<c m="rgb" r="173" g="148" b="81" n="RAL 1024 - Ochre Yellow"/>
 <c m="rgb" r="255" g="255" b="0" n="RAL 1026 - Luminous Yellow"/>
-<c m="rgb" r="167" g="127" b="14" n="RAL 1027 - Curry"/>
-<c m="rgb" r="255" g="155" b="0" n="RAL 1028 - Melon Yellow"/>
-<c m="rgb" r="226" g="163" b="0" n="RAL 1032 - Broom Yellow"/>
-<c m="rgb" r="249" g="154" b="28" n="RAL 1033 - Dahlia Yellow"/>
-<c m="rgb" r="235" g="156" b="82" n="RAL 1034 - Pastel Yellow"/>
-<c m="rgb" r="144" g="131" b="112" n="RAL 1035 - Pearl Beige"/>
-<c m="rgb" r="128" g="100" b="63" n="RAL 1036 - Pearl Gold"/>
-<c m="rgb" r="240" g="146" b="0" n="RAL 1037 - Sun Yellow"/>
+<c m="rgb" r="153" g="132" b="32" n="RAL 1027 - Curry"/>
+<c m="rgb" r="242" g="165" b="0" n="RAL 1028 - Melon Yellow"/>
+<c m="rgb" r="207" g="168" b="30" n="RAL 1032 - Broom Yellow"/>
+<c m="rgb" r="228" g="160" b="45" n="RAL 1033 - Dahlia Yellow"/>
+<c m="rgb" r="217" g="161" b="86" n="RAL 1034 - Pastel Yellow"/>
+<c m="rgb" r="137" g="130" b="113" n="RAL 1035 - Pearl Beige"/>
+<c m="rgb" r="116" g="99" b="65" n="RAL 1036 - Pearl Gold"/>
+<c m="rgb" r="219" g="154" b="23" n="RAL 1037 - Sun Yellow"/>
 
-<c m="rgb" r="218" g="110" b="0" n="RAL 2000 - Yellow Orange"/>
-<c m="rgb" r="186" g="72" b="27" n="RAL 2001 - Red Orange"/>
-<c m="rgb" r="191" g="57" b="34" n="RAL 2002 - Vermilion"/>
-<c m="rgb" r="246" g="120" b="40" n="RAL 2003 - Pastel Orange"/>
-<c m="rgb" r="226" g="83" b="3" n="RAL 2004 - Pure Orange"/>
-<c m="rgb" r="255" g="77" b="6" n="RAL 2005 - Luminous Orange"/>
-<c m="rgb" r="255" g="178" b="0" n="RAL 2007 - Luminous Bright Orange"/>
-<c m="rgb" r="237" g="107" b="33" n="RAL 2008 - Bright Red Orange"/>
-<c m="rgb" r="222" g="83" b="7" n="RAL 2009 - Traffic Orange"/>
-<c m="rgb" r="208" g="93" b="40" n="RAL 2010 - Signal Orange"/>
-<c m="rgb" r="226" g="110" b="14" n="RAL 2011 - Deep Orange"/>
-<c m="rgb" r="213" g="101" b="77" n="RAL 2012 - Salmon Orange"/>
-<c m="rgb" r="146" g="62" b="37" n="RAL 2013 - Pearl Orange"/>
+<c m="rgb" r="199" g="117" b="15" n="RAL 2000 - Yellow Orange"/>
+<c m="rgb" r="167" g="77" b="35" n="RAL 2001 - Red Orange"/>
+<c m="rgb" r="172" g="55" b="33" n="RAL 2002 - Vermilion"/>
+<c m="rgb" r="225" g="124" b="48" n="RAL 2003 - Pastel Orange"/>
+<c m="rgb" r="204" g="86" b="8" n="RAL 2004 - Pure Orange"/>
+<c m="rgb" r="255" g="70" b="18" n="RAL 2005 - Luminous Orange"/>
+<c m="rgb" r="255" g="173" b="25" n="RAL 2007 - Luminous Bright Orange"/>
+<c m="rgb" r="214" g="108" b="33" n="RAL 2008 - Bright Red Orange"/>
+<c m="rgb" r="201" g="86" b="13" n="RAL 2009 - Traffic Orange"/>
+<c m="rgb" r="188" g="96" b="45" n="RAL 2010 - Signal Orange"/>
+<c m="rgb" r="207" g="116" b="33" n="RAL 2011 - Deep Orange"/>
+<c m="rgb" r="194" g="103" b="79" n="RAL 2012 - Salmon Orange"/>
+<c m="rgb" r="130" g="65" b="40" n="RAL 2013 - Pearl Orange"/>
 <c m="rgb" r="220" g="91" b="0" n="RAL 2017 - RAL Orange"/>
 
-<c m="rgb" r="167" g="41" b="32" n="RAL 3000 - Flame Red"/>
-<c m="rgb" r="155" g="36" b="35" n="RAL 3001 - Signal Red"/>
-<c m="rgb" r="155" g="35" b="33" n="RAL 3002 - Carmine Red"/>
-<c m="rgb" r="134" g="26" b="34" n="RAL 3003 - Ruby Red"/>
-<c m="rgb" r="107" g="28" b="35" n="RAL 3004 - Purple Red"/>
-<c m="rgb" r="89" g="25" b="31" n="RAL 3005 - Wine Red"/>
-<c m="rgb" r="62" g="32" b="34" n="RAL 3007 - Black Red"/>
-<c m="rgb" r="109" g="52" b="45" n="RAL 3009 - Oxide Red"/>
-<c m="rgb" r="121" g="36" b="35" n="RAL 3011 - Brown Red"/>
-<c m="rgb" r="198" g="132" b="109" n="RAL 3012 - Beige Red"/>
-<c m="rgb" r="151" g="46" b="37" n="RAL 3013 - Tomato Red"/>
-<c m="rgb" r="203" g="115" b="117" n="RAL 3014 - Antique Pink"/>
-<c m="rgb" r="216" g="160" b="166" n="RAL 3015 - Light Pink"/>
-<c m="rgb" r="166" g="61" b="47" n="RAL 3016 - Coral Red"/>
-<c m="rgb" r="203" g="85" b="93" n="RAL 3017 - Rose"/>
-<c m="rgb" r="199" g="63" b="74" n="RAL 3018 - Strawberry Red"/>
-<c m="rgb" r="187" g="30" b="16" n="RAL 3020 - Traffic Red"/>
-<c m="rgb" r="207" g="105" b="85" n="RAL 3022 - Salmon Pink"/>
-<c m="rgb" r="255" g="45" b="33" n="RAL 3024 - Luminous Red"/>
-<c m="rgb" r="255" g="42" b="27" n="RAL 3026 - Luminous Bright Red"/>
-<c m="rgb" r="171" g="39" b="60" n="RAL 3027 - Raspberry Red"/>
-<c m="rgb" r="204" g="44" b="36" n="RAL 3028 - Pure Red"/>
-<c m="rgb" r="166" g="52" b="55" n="RAL 3031 - Orient Red"/>
-<c m="rgb" r="112" g="29" b="35" n="RAL 3032 - Pearl Ruby Red"/>
-<c m="rgb" r="165" g="58" b="45" n="RAL 3033 - Pearl Pink"/>
+<c m="rgb" r="150" g="42" b="39" n="RAL 3000 - Flame Red"/>
+<c m="rgb" r="143" g="30" b="36" n="RAL 3001 - Signal Red"/>
+<c m="rgb" r="141" g="31" b="36" n="RAL 3002 - Carmine Red"/>
+<c m="rgb" r="124" g="13" b="36" n="RAL 3003 - Ruby Red"/>
+<c m="rgb" r="101" g="25" b="39" n="RAL 3004 - Purple Red"/>
+<c m="rgb" r="86" g="30" b="39" n="RAL 3005 - Wine Red"/>
+<c m="rgb" r="61" g="35" b="38" n="RAL 3007 - Black Red"/>
+<c m="rgb" r="100" g="55" b="48" n="RAL 3009 - Oxide Red"/>
+<c m="rgb" r="110" g="33" b="36" n="RAL 3011 - Brown Red"/>
+<c m="rgb" r="183" g="133" b="110" n="RAL 3012 - Beige Red"/>
+<c m="rgb" r="138" g="47" b="40" n="RAL 3013 - Tomato Red"/>
+<c m="rgb" r="188" g="111" b="114" n="RAL 3014 - Antique Pink"/>
+<c m="rgb" r="204" g="158" b="164" n="RAL 3015 - Light Pink"/>
+<c m="rgb" r="150" g="61" b="47" n="RAL 3016 - Coral Red"/>
+<c m="rgb" r="185" g="83" b="91" n="RAL 3017 - Rose"/>
+<c m="rgb" r="182" g="60" b="73" n="RAL 3018 - Strawberry Red"/>
+<c m="rgb" r="171" g="21" b="25" n="RAL 3020 - Traffic Red"/>
+<c m="rgb" r="190" g="105" b="84" n="RAL 3022 - Salmon Pink"/>
+<c m="rgb" r="238" g="23" b="41" n="RAL 3024 - Luminous Red"/>
+<c m="rgb" r="247" g="16" b="39" n="RAL 3026 - Luminous Bright Red"/>
+<c m="rgb" r="158" g="27" b="60" n="RAL 3027 - Raspberry Red"/>
+<c m="rgb" r="185" g="39" b="38" n="RAL 3028 - Pure Red"/>
+<c m="rgb" r="151" g="50" b="56" n="RAL 3031 - Orient Red"/>
+<c m="rgb" r="102" g="25" b="37" n="RAL 3032 - Pearl Ruby Red"/>
+<c m="rgb" r="148" g="53" b="45" n="RAL 3033 - Pearl Pink"/>
 
-<c m="rgb" r="129" g="97" b="131" n="RAL 4001 - Red Lilac"/>
-<c m="rgb" r="141" g="60" b="75" n="RAL 4002 - Red Violet"/>
-<c m="rgb" r="196" g="97" b="140" n="RAL 4003 - Heather Violet"/>
-<c m="rgb" r="101" g="30" b="56" n="RAL 4004 - Claret Violet"/>
-<c m="rgb" r="118" g="104" b="154" n="RAL 4005 - Blue Lilac"/>
-<c m="rgb" r="144" g="51" b="115" n="RAL 4006 - Traffic Purple"/>
-<c m="rgb" r="71" g="36" b="60" n="RAL 4007 - Purple Violet"/>
-<c m="rgb" r="132" g="76" b="130" n="RAL 4008 - Signal Violet"/>
-<c m="rgb" r="157" g="134" b="146" n="RAL 4009 - Pastel Violet"/>
-<c m="rgb" r="188" g="64" b="119" n="RAL 4010 - Telemagenta"/>
-<c m="rgb" r="110" g="99" b="135" n="RAL 4011 - Pearl Violet"/>
-<c m="rgb" r="107" g="107" b="127" n="RAL 4012 - Pearl Black Berry"/>
+<c m="rgb" r="124" g="91" b="128" n="RAL 4001 - Red Lilac"/>
+<c m="rgb" r="130" g="58" b="75" n="RAL 4002 - Red Violet"/>
+<c m="rgb" r="182" g="90" b="136" n="RAL 4003 - Heather Violet"/>
+<c m="rgb" r="95" g="24" b="55" n="RAL 4004 - Claret Violet"/>
+<c m="rgb" r="116" g="99" b="149" n="RAL 4005 - Blue Lilac"/>
+<c m="rgb" r="133" g="46" b="111" n="RAL 4006 - Traffic Purple"/>
+<c m="rgb" r="68" g="38" b="60" n="RAL 4007 - Purple Violet"/>
+<c m="rgb" r="124" g="71" b="125" n="RAL 4008 - Signal Violet"/>
+<c m="rgb" r="149" g="131" b="143" n="RAL 4009 - Pastel Violet"/>
+<c m="rgb" r="172" g="59" b="113" n="RAL 4010 - Telemagenta"/>
+<c m="rgb" r="104" g="92" b="128" n="RAL 4011 - Pearl Violet"/>
+<c m="rgb" r="103" g="101" b="122" n="RAL 4012 - Pearl Blackberry"/>
 
-<c m="rgb" r="49" g="79" b="111" n="RAL 5000 - Violet Blue"/>
-<c m="rgb" r="15" g="76" b="100" n="RAL 5001 - Green Blue"/>
-<c m="rgb" r="0" g="56" b="123" n="RAL 5002 - Ultramarine Blue"/>
-<c m="rgb" r="31" g="56" b="85" n="RAL 5003 - Saphire blue"/>
-<c m="rgb" r="25" g="30" b="40" n="RAL 5004 - Black Blue"/>
-<c m="rgb" r="0" g="83" b="135" n="RAL 5005 - Signal Blue"/>
-<c m="rgb" r="55" g="107" b="140" n="RAL 5007 - Brillant Blue"/>
-<c m="rgb" r="43" g="58" b="68" n="RAL 5008 - Grey Blue"/>
-<c m="rgb" r="34" g="95" b="120" n="RAL 5009 - Azure Blue"/>
-<c m="rgb" r="0" g="79" b="124" n="RAL 5010 - Gentian Blue"/>
-<c m="rgb" r="26" g="43" b="60" n="RAL 5011 - Steel Blue"/>
-<c m="rgb" r="0" g="137" b="182" n="RAL 5012 - Light Blue"/>
-<c m="rgb" r="25" g="49" b="83" n="RAL 5013 - Cobalt Blue"/>
-<c m="rgb" r="99" g="125" b="150" n="RAL 5014 - Pigeon Blue"/>
-<c m="rgb" r="0" g="124" b="176" n="RAL 5015 - Sky Blue"/>
-<c m="rgb" r="0" g="91" b="140" n="RAL 5017 - Traffic Blue"/>
-<c m="rgb" r="5" g="139" b="140" n="RAL 5018 - Turquoise Blue"/>
-<c m="rgb" r="0" g="94" b="131" n="RAL 5019 - Capri Blue"/>
-<c m="rgb" r="0" g="65" b="75" n="RAL 5020 - Ocean Blue"/>
-<c m="rgb" r="0" g="117" b="119" n="RAL 5021 - Water Blue"/>
-<c m="rgb" r="34" g="45" b="90" n="RAL 5022 - Night Blue"/>
-<c m="rgb" r="66" g="105" b="140" n="RAL 5023 - Distant Blue"/>
-<c m="rgb" r="96" g="147" b="172" n="RAL 5024 - Pastel Blue"/>
-<c m="rgb" r="33" g="105" b="124" n="RAL 5025 - Pearl Gentian Blue"/>
-<c m="rgb" r="15" g="48" b="82" n="RAL 5026 - Pearl Night Blue"/>
+<c m="rgb" r="53" g="73" b="107" n="RAL 5000 - Violet Blue"/>
+<c m="rgb" r="41" g="71" b="99" n="RAL 5001 - Green Blue"/>
+<c m="rgb" r="25" g="50" b="120" n="RAL 5002 - Ultramarine Blue"/>
+<c m="rgb" r="32" g="49" b="81" n="RAL 5003 - Saphire blue"/>
+<c m="rgb" r="30" g="34" b="44" n="RAL 5004 - Black Blue"/>
+<c m="rgb" r="19" g="74" b="133" n="RAL 5005 - Signal Blue"/>
+<c m="rgb" r="70" g="101" b="137" n="RAL 5007 - Brillant Blue"/>
+<c m="rgb" r="47" g="58" b="68" n="RAL 5008 - Grey Blue"/>
+<c m="rgb" r="54" g="88" b="117" n="RAL 5009 - Azure Blue"/>
+<c m="rgb" r="14" g="69" b="122" n="RAL 5010 - Gentian Blue"/>
+<c m="rgb" r="34" g="44" b="62" n="RAL 5011 - Steel Blue"/>
+<c m="rgb" r="69" g="127" b="179" n="RAL 5012 - Light Blue"/>
+<c m="rgb" r="33" g="47" b="81" n="RAL 5013 - Cobalt Blue"/>
+<c m="rgb" r="102" g="118" b="145" n="RAL 5014 - Pigeon Blue"/>
+<c m="rgb" r="49" g="114" b="173" n="RAL 5015 - Sky Blue"/>
+<c m="rgb" r="15" g="81" b="138" n="RAL 5017 - Traffic Blue"/>
+<c m="rgb" r="71" g="132" b="141" n="RAL 5018 - Turquoise Blue"/>
+<c m="rgb" r="38" g="86" b="130" n="RAL 5019 - Capri Blue"/>
+<c m="rgb" r="17" g="62" b="77" n="RAL 5020 - Ocean Blue"/>
+<c m="rgb" r="33" g="109" b="118" n="RAL 5021 - Water Blue"/>
+<c m="rgb" r="40" g="44" b="88" n="RAL 5022 - Night Blue"/>
+<c m="rgb" r="77" g="100" b="138" n="RAL 5023 - Distant Blue"/>
+<c m="rgb" r="108" g="141" b="170" n="RAL 5024 - Pastel Blue"/>
+<c m="rgb" r="60" g="99" b="121" n="RAL 5025 - Pearl Gentian Blue"/>
+<c m="rgb" r="27" g="43" b="77" n="RAL 5026 - Pearl Night Blue"/>
 
-<c m="rgb" r="60" g="116" b="96" n="RAL 6000 - Patina Green"/>
-<c m="rgb" r="54" g="103" b="53" n="RAL 6001 - Emerald Green"/>
-<c m="rgb" r="50" g="89" b="40" n="RAL 6002 - Leaf Green"/>
-<c m="rgb" r="80" g="83" b="60" n="RAL 6003 - Olive Green"/>
-<c m="rgb" r="2" g="68" b="66" n="RAL 6004 - Blue Green"/>
-<c m="rgb" r="17" g="66" b="50" n="RAL 6005 - Moss Green"/>
-<c m="rgb" r="60" g="57" b="46" n="RAL 6006 - Grey Olive"/>
-<c m="rgb" r="44" g="50" b="34" n="RAL 6007 - Bottle Green"/>
-<c m="rgb" r="55" g="52" b="42" n="RAL 6008 - Brown Green"/>
-<c m="rgb" r="39" g="53" b="42" n="RAL 6009 - Fir Green"/>
-<c m="rgb" r="77" g="111" b="57" n="RAL 6010 - Grass Green"/>
-<c m="rgb" r="108" g="124" b="89" n="RAL 6011 - Reseda Green"/>
-<c m="rgb" r="48" g="61" b="58" n="RAL 6012 - Black Green"/>
-<c m="rgb" r="125" g="118" b="90" n="RAL 6013 - Reed Green"/>
-<c m="rgb" r="71" g="65" b="53" n="RAL 6014 - Yellow Olive"/>
-<c m="rgb" r="61" g="61" b="54" n="RAL 6015 - Black Olive"/>
-<c m="rgb" r="0" g="105" b="76" n="RAL 6016 - Turquoise Green"/>
-<c m="rgb" r="88" g="127" b="64" n="RAL 6017 - May Green"/>
-<c m="rgb" r="97" g="153" b="59" n="RAL 6018 - Yellow Green"/>
-<c m="rgb" r="185" g="206" b="172" n="RAL 6019 - Pastel Green"/>
-<c m="rgb" r="55" g="66" b="47" n="RAL 6020 - Chrome Green"/>
-<c m="rgb" r="138" g="153" b="119" n="RAL 6021 - Pale Green"/>
-<c m="rgb" r="58" g="51" b="39" n="RAL 6022 - Olive Drab"/>
-<c m="rgb" r="0" g="131" b="81" n="RAL 6024 - Traffic Green"/>
-<c m="rgb" r="94" g="110" b="59" n="RAL 6025 - Fern Green"/>
-<c m="rgb" r="0" g="95" b="78" n="RAL 6026 - Opal Green"/>
-<c m="rgb" r="126" g="186" b="181" n="RAL 6027 - Light Green"/>
-<c m="rgb" r="49" g="84" b="66" n="RAL 6028 - Pine Green"/>
-<c m="rgb" r="0" g="111" b="61" n="RAL 6029 - Mint Green"/>
-<c m="rgb" r="35" g="127" b="82" n="RAL 6032 - Signal Green"/>
-<c m="rgb" r="70" g="135" b="127" n="RAL 6033 - Mint Turquoise"/>
-<c m="rgb" r="122" g="172" b="172" n="RAL 6034 - Pastel Turquoise"/>
-<c m="rgb" r="25" g="77" b="37" n="RAL 6035 - Pearl Green"/>
-<c m="rgb" r="4" g="87" b="75" n="RAL 6036 - Pearl Opal Green"/>
-<c m="rgb" r="0" g="139" b="41" n="RAL 6037 - Pure Green"/>
-<c m="rgb" r="0" g="186" b="26" n="RAL 6038 - Luminous Green"/>
+<c m="rgb" r="74" g="115" b="99" n="RAL 6000 - Patina Green"/>
+<c m="rgb" r="64" g="105" b="58" n="RAL 6001 - Emerald Green"/>
+<c m="rgb" r="59" g="91" b="47" n="RAL 6002 - Leaf Green"/>
+<c m="rgb" r="79" g="85" b="62" n="RAL 6003 - Olive Green"/>
+<c m="rgb" r="33" g="66" b="69" n="RAL 6004 - Blue Green"/>
+<c m="rgb" r="35" g="66" b="53" n="RAL 6005 - Moss Green"/>
+<c m="rgb" r="60" g="61" b="50" n="RAL 6006 - Grey Olive"/>
+<c m="rgb" r="46" g="53" b="38" n="RAL 6007 - Bottle Green"/>
+<c m="rgb" r="51" g="51" b="39" n="RAL 6008 - Brown Green"/>
+<c m="rgb" r="42" g="55" b="44" n="RAL 6009 - Fir Green"/>
+<c m="rgb" r="78" g="110" b="57" n="RAL 6010 - Grass Green"/>
+<c m="rgb" r="106" g="124" b="91" n="RAL 6011 - Reseda Green"/>
+<c m="rgb" r="47" g="59" b="57" n="RAL 6012 - Black Green"/>
+<c m="rgb" r="119" g="118" b="89" n="RAL 6013 - Reed Green"/>
+<c m="rgb" r="69" g="67" b="57" n="RAL 6014 - Yellow Olive"/>
+<c m="rgb" r="60" g="63" b="56" n="RAL 6015 - Black Olive"/>
+<c m="rgb" r="37" g="103" b="83" n="RAL 6016 - Turquoise Green"/>
+<c m="rgb" r="92" g="129" b="68" n="RAL 6017 - May Green"/>
+<c m="rgb" r="104" g="154" b="69" n="RAL 6018 - Yellow Green"/>
+<c m="rgb" r="184" g="207" b="173" n="RAL 6019 - Pastel Green"/>
+<c m="rgb" r="59" g="70" b="52" n="RAL 6020 - Chrome Green"/>
+<c m="rgb" r="137" g="155" b="121" n="RAL 6021 - Pale Green"/>
+<c m="rgb" r="59" g="56" b="46" n="RAL 6022 - Olive Drab"/>
+<c m="rgb" r="58" g="130" b="88" n="RAL 6024 - Traffic Green"/>
+<c m="rgb" r="93" g="112" b="62" n="RAL 6025 - Fern Green"/>
+<c m="rgb" r="13" g="89" b="81" n="RAL 6026 - Opal Green"/>
+<c m="rgb" r="136" g="181" b="179" n="RAL 6027 - Light Green"/>
+<c m="rgb" r="61" g="85" b="71" n="RAL 6028 - Pine Green"/>
+<c m="rgb" r="34" g="108" b="69" n="RAL 6029 - Mint Green"/>
+<c m="rgb" r="65" g="126" b="87" n="RAL 6032 - Signal Green"/>
+<c m="rgb" r="86" g="132" b="128" n="RAL 6033 - Mint Turquoise"/>
+<c m="rgb" r="134" g="169" b="173" n="RAL 6034 - Pastel Turquoise"/>
+<c m="rgb" r="46" g="79" b="49" n="RAL 6035 - Pearl Green"/>
+<c m="rgb" r="39" g="81" b="74" n="RAL 6036 - Pearl Opal Green"/>
+<c m="rgb" r="63" g="140" b="61" n="RAL 6037 - Pure Green"/>
+<c m="rgb" r="32" g="163" b="57" n="RAL 6038 - Luminous Green"/>
 <c m="rgb" r="171" g="194" b="81" n="RAL 6039 - Fibrous Green"/>
 
-<c m="rgb" r="122" g="136" b="142" n="RAL 7000 - Squirrel Grey"/>
-<c m="rgb" r="140" g="150" b="157" n="RAL 7001 - Silver Grey"/>
-<c m="rgb" r="129" g="120" b="99" n="RAL 7002 - Olive Grey"/>
-<c m="rgb" r="122" g="118" b="105" n="RAL 7003 - Moss Grey"/>
-<c m="rgb" r="155" g="155" b="155" n="RAL 7004 - Signal Grey"/>
-<c m="rgb" r="108" g="110" b="107" n="RAL 7005 - Mouse Grey"/>
-<c m="rgb" r="118" g="106" b="94" n="RAL 7006 - Beige Grey"/>
-<c m="rgb" r="116" g="94" b="61" n="RAL 7008 - Khaki Grey"/>
-<c m="rgb" r="93" g="96" b="88" n="RAL 7009 - Green Grey"/>
-<c m="rgb" r="88" g="92" b="86" n="RAL 7010 - Tarpaulin Grey"/>
-<c m="rgb" r="82" g="89" b="93" n="RAL 7011 - Iron Grey"/>
-<c m="rgb" r="87" g="93" b="94" n="RAL 7012 - Basalt Grey"/>
-<c m="rgb" r="87" g="80" b="68" n="RAL 7013 - Brown Grey"/>
-<c m="rgb" r="79" g="83" b="88" n="RAL 7015 - Slate Grey"/>
-<c m="rgb" r="56" g="62" b="66" n="RAL 7016 - Anthracite Grey"/>
-<c m="rgb" r="47" g="50" b="52" n="RAL 7021 - Black Grey"/>
-<c m="rgb" r="76" g="74" b="68" n="RAL 7022 - Umbra Grey"/>
-<c m="rgb" r="128" g="128" b="118" n="RAL 7023 - Concrete Grey"/>
+<c m="rgb" r="123" g="133" b="141" n="RAL 7000 - Squirrel Grey"/>
+<c m="rgb" r="139" g="148" b="155" n="RAL 7001 - Silver Grey"/>
+<c m="rgb" r="125" g="121" b="101" n="RAL 7002 - Olive Grey"/>
+<c m="rgb" r="118" g="119" b="106" n="RAL 7003 - Moss Grey"/>
+<c m="rgb" r="150" g="151" b="153" n="RAL 7004 - Signal Grey"/>
+<c m="rgb" r="105" g="109" b="107" n="RAL 7005 - Mouse Grey"/>
+<c m="rgb" r="113" g="108" b="96" n="RAL 7006 - Beige Grey"/>
+<c m="rgb" r="108" g="96" b="64" n="RAL 7008 - Khaki Grey"/>
+<c m="rgb" r="91" g="96" b="88" n="RAL 7009 - Green Grey"/>
+<c m="rgb" r="87" g="91" b="87" n="RAL 7010 - Tarpaulin Grey"/>
+<c m="rgb" r="83" g="90" b="94" n="RAL 7011 - Iron Grey"/>
+<c m="rgb" r="89" g="94" b="96" n="RAL 7012 - Basalt Grey"/>
+<c m="rgb" r="84" g="81" b="70" n="RAL 7013 - Brown Grey"/>
+<c m="rgb" r="81" g="83" b="90" n="RAL 7015 - Slate Grey"/>
+<c m="rgb" r="59" g="64" b="68" n="RAL 7016 - Anthracite Grey"/>
+<c m="rgb" r="50" g="53" b="55" n="RAL 7021 - Black Grey"/>
+<c m="rgb" r="76" g="76" b="71" n="RAL 7022 - Umbra Grey"/>
+<c m="rgb" r="125" g="127" b="118" n="RAL 7023 - Concrete Grey"/>
 <c m="rgb" r="69" g="73" b="78" n="RAL 7024 - Graphite Grey"/>
-<c m="rgb" r="55" g="67" b="69" n="RAL 7026 - Granite Grey"/>
-<c m="rgb" r="146" g="142" b="133" n="RAL 7030 - Stone Grey"/>
-<c m="rgb" r="91" g="104" b="109" n="RAL 7031 - Blue Grey"/>
-<c m="rgb" r="181" g="176" b="161" n="RAL 7032 - Pebble Grey"/>
-<c m="rgb" r="127" g="130" b="116" n="RAL 7033 - Cement Grey"/>
-<c m="rgb" r="146" g="136" b="111" n="RAL 7034 - Yellow Grey"/>
-<c m="rgb" r="197" g="199" b="196" n="RAL 7035 - Light Grey"/>
-<c m="rgb" r="151" g="147" b="146" n="RAL 7036 - Platinum Grey"/>
-<c m="rgb" r="122" g="123" b="122" n="RAL 7037 - Dusty Grey"/>
-<c m="rgb" r="176" g="176" b="169" n="RAL 7038 - Agate Grey"/>
-<c m="rgb" r="107" g="102" b="94" n="RAL 7039 - Quartz Grey"/>
-<c m="rgb" r="152" g="158" b="161" n="RAL 7040 - Window Grey"/>
-<c m="rgb" r="142" g="146" b="145" n="RAL 7042 - Traffic Grey A"/>
-<c m="rgb" r="79" g="82" b="80" n="RAL 7043 - Traffic Grey B"/>
-<c m="rgb" r="183" g="179" b="168" n="RAL 7044 - Silk Grey"/>
-<c m="rgb" r="141" g="146" b="149" n="RAL 7045 - Telegrey 1"/>
-<c m="rgb" r="127" g="134" b="138" n="RAL 7046 - Telegrey 2"/>
-<c m="rgb" r="200" g="200" b="199" n="RAL 7047 - Telegrey 4"/>
-<c m="rgb" r="129" g="123" b="115" n="RAL 7048 - Pearl Mouse Grey"/>
+<c m="rgb" r="57" g="67" b="69" n="RAL 7026 - Granite Grey"/>
+<c m="rgb" r="140" g="140" b="131" n="RAL 7030 - Stone Grey"/>
+<c m="rgb" r="93" g="103" b="109" n="RAL 7031 - Blue Grey"/>
+<c m="rgb" r="177" g="177" b="161" n="RAL 7032 - Pebble Grey"/>
+<c m="rgb" r="124" g="130" b="115" n="RAL 7033 - Cement Grey"/>
+<c m="rgb" r="140" g="136" b="112" n="RAL 7034 - Yellow Grey"/>
+<c m="rgb" r="194" g="198" b="195" n="RAL 7035 - Light Grey"/>
+<c m="rgb" r="148" g="146" b="146" n="RAL 7036 - Platinum Grey"/>
+<c m="rgb" r="121" g="123" b="123" n="RAL 7037 - Dusty Grey"/>
+<c m="rgb" r="173" g="176" b="169" n="RAL 7038 - Agate Grey"/>
+<c m="rgb" r="104" g="103" b="95" n="RAL 7039 - Quartz Grey"/>
+<c m="rgb" r="150" g="156" b="161" n="RAL 7040 - Window Grey"/>
+<c m="rgb" r="140" g="145" b="144" n="RAL 7042 - Traffic Grey A"/>
+<c m="rgb" r="79" g="83" b="82" n="RAL 7043 - Traffic Grey B"/>
+<c m="rgb" r="179" g="178" b="169" n="RAL 7044 - Silk Grey"/>
+<c m="rgb" r="140" g="144" b="148" n="RAL 7045 - Telegrey 1"/>
+<c m="rgb" r="124" g="130" b="135" n="RAL 7046 - Telegrey 2"/>
+<c m="rgb" r="197" g="197" b="197" n="RAL 7047 - Telegrey 4"/>
+<c m="rgb" r="122" g="120" b="113" n="RAL 7048 - Pearl Mouse Grey"/>
 
-<c m="rgb" r="137" g="105" b="62" n="RAL 8000 - Green Brown"/>
-<c m="rgb" r="157" g="98" b="43" n="RAL 8001 - Ochre Brown"/>
-<c m="rgb" r="121" g="77" b="62" n="RAL 8002 - Signal Brown"/>
-<c m="rgb" r="126" g="75" b="38" n="RAL 8003 - Clay Brown"/>
-<c m="rgb" r="141" g="73" b="49" n="RAL 8004 - Copper Brown"/>
-<c m="rgb" r="112" g="69" b="42" n="RAL 8007 - Fawn Brown"/>
-<c m="rgb" r="114" g="74" b="37" n="RAL 8008 - Olive Brown"/>
-<c m="rgb" r="90" g="56" b="38" n="RAL 8011 - Nut Brown"/>
-<c m="rgb" r="102" g="51" b="43" n="RAL 8012 - Red Brown"/>
-<c m="rgb" r="74" g="53" b="38" n="RAL 8014 - Sepia Brown"/>
-<c m="rgb" r="94" g="47" b="38" n="RAL 8015 - Chestnut Brown"/>
-<c m="rgb" r="76" g="43" b="32" n="RAL 8016 - Mahogany Brown"/>
-<c m="rgb" r="68" g="47" b="41" n="RAL 8017 - Chocolate Brown"/>
-<c m="rgb" r="61" g="54" b="53" n="RAL 8019 - Grey Brown"/>
-<c m="rgb" r="26" g="23" b="24" n="RAL 8022 - Black Brown"/>
-<c m="rgb" r="164" g="87" b="41" n="RAL 8023 - Orange Brown"/>
-<c m="rgb" r="121" g="80" b="56" n="RAL 8024 - Beige Brown"/>
-<c m="rgb" r="117" g="88" b="71" n="RAL 8025 - Pale Brown"/>
-<c m="rgb" r="81" g="58" b="42" n="RAL 8028 - Terra Brown"/>
-<c m="rgb" r="127" g="64" b="49" n="RAL 8029 - Pearl Copper"/>
+<c m="rgb" r="129" g="109" b="68" n="RAL 8000 - Green Brown"/>
+<c m="rgb" r="143" g="104" b="51" n="RAL 8001 - Ochre Brown"/>
+<c m="rgb" r="112" g="79" b="64" n="RAL 8002 - Signal Brown"/>
+<c m="rgb" r="116" g="80" b="47" n="RAL 8003 - Clay Brown"/>
+<c m="rgb" r="129" g="77" b="55" n="RAL 8004 - Copper Brown"/>
+<c m="rgb" r="103" g="73" b="47" n="RAL 8007 - Fawn Brown"/>
+<c m="rgb" r="105" g="79" b="43" n="RAL 8008 - Olive Brown"/>
+<c m="rgb" r="83" g="58" b="41" n="RAL 8011 - Nut Brown"/>
+<c m="rgb" r="92" g="49" b="40" n="RAL 8012 - Red Brown"/>
+<c m="rgb" r="69" g="55" b="41" n="RAL 8014 - Sepia Brown"/>
+<c m="rgb" r="87" g="51" b="43" n="RAL 8015 - Chestnut Brown"/>
+<c m="rgb" r="72" g="48" b="38" n="RAL 8016 - Mahogany Brown"/>
+<c m="rgb" r="66" g="51" b="46" n="RAL 8017 - Chocolate Brown"/>
+<c m="rgb" r="59" g="55" b="54" n="RAL 8019 - Grey Brown"/>
+<c m="rgb" r="32" g="31" b="32" n="RAL 8022 - Black Brown"/>
+<c m="rgb" r="150" g="93" b="51" n="RAL 8023 - Orange Brown"/>
+<c m="rgb" r="111" g="84" b="60" n="RAL 8024 - Beige Brown"/>
+<c m="rgb" r="110" g="91" b="75" n="RAL 8025 - Pale Brown"/>
+<c m="rgb" r="76" g="62" b="48" n="RAL 8028 - Terra Brown"/>
+<c m="rgb" r="118" g="69" b="55" n="RAL 8029 - Pearl Copper"/>
 
-<c m="rgb" r="233" g="224" b="210" n="RAL 9001 - Cream"/>
-<c m="rgb" r="215" g="213" b="203" n="RAL 9002 - Grey White"/>
-<c m="rgb" r="236" g="236" b="231" n="RAL 9003 - Signal White"/>
-<c m="rgb" r="43" g="43" b="44" n="RAL 9004 - Signal Black"/>
-<c m="rgb" r="14" g="14" b="16" n="RAL 9005 - Jet Black"/>
-<c m="rgb" r="161" g="161" b="160" n="RAL 9006 - White Aluminium"/>
-<c m="rgb" r="135" g="133" b="129" n="RAL 9007 - Grey Aluminium"/>
-<c m="rgb" r="241" g="236" b="225" n="RAL 9010 - Pure White"/>
-<c m="rgb" r="39" g="41" b="43" n="RAL 9011 - Graphite Black"/>
-<c m="rgb" r="241" g="240" b="234" n="RAL 9016 - Traffic White"/>
-<c m="rgb" r="42" g="41" b="42" n="RAL 9017 - Traffic Black"/>
-<c m="rgb" r="200" g="203" b="196" n="RAL 9018 - Papyrus White"/>
-<c m="rgb" r="133" g="133" b="131" n="RAL 9022 - Pearl Light Grey"/>
-<c m="rgb" r="121" g="123" b="122" n="RAL 9023 - Pearl Dark Grey"/>
+<c m="rgb" r="229" g="225" b="212" n="RAL 9001 - Cream"/>
+<c m="rgb" r="212" g="213" b="205" n="RAL 9002 - Grey White"/>
+<c m="rgb" r="235" g="236" b="234" n="RAL 9003 - Signal White"/>
+<c m="rgb" r="47" g="49" b="51" n="RAL 9004 - Signal Black"/>
+<c m="rgb" r="19" g="21" b="22" n="RAL 9005 - Jet Black"/>
+<c m="rgb" r="154" g="157" b="157" n="RAL 9006 - White Aluminium"/>
+<c m="rgb" r="130" g="130" b="128" n="RAL 9007 - Grey Aluminium"/>
+<c m="rgb" r="239" g="238" b="229" n="RAL 9010 - Pure White"/>
+<c m="rgb" r="37" g="40" b="42" n="RAL 9011 - Graphite Black"/>
+<c m="rgb" r="242" g="241" b="225" n="RAL 9012 - Cleanroom White"/>
+<c m="rgb" r="239" g="240" b="235" n="RAL 9016 - Traffic White"/>
+<c m="rgb" r="38" g="38" b="37" n="RAL 9017 - Traffic Black"/>
+<c m="rgb" r="198" g="203" b="198" n="RAL 9018 - Papyrus White"/>
+<c m="rgb" r="129" g="131" b="130" n="RAL 9022 - Pearl Light Grey"/>
+<c m="rgb" r="118" g="119" b="121" n="RAL 9023 - Pearl Dark Grey"/>
 </palette>
 
 </xml>

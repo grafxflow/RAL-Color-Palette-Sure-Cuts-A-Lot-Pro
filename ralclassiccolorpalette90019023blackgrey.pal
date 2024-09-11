@@ -1,20 +1,21 @@
 <xml version="1.0">
 
 <palette name=""Ral Classic Color Palette 9001 9023 Black Grey" lock="true">
-<c m="rgb" r="233" g="224" b="210" n="RAL 9001 - Cream"/>
-<c m="rgb" r="215" g="213" b="203" n="RAL 9002 - Grey White"/>
-<c m="rgb" r="236" g="236" b="231" n="RAL 9003 - Signal White"/>
-<c m="rgb" r="43" g="43" b="44" n="RAL 9004 - Signal Black"/>
-<c m="rgb" r="14" g="14" b="16" n="RAL 9005 - Jet Black"/>
-<c m="rgb" r="161" g="161" b="160" n="RAL 9006 - White Aluminium"/>
-<c m="rgb" r="135" g="133" b="129" n="RAL 9007 - Grey Aluminium"/>
-<c m="rgb" r="241" g="236" b="225" n="RAL 9010 - Pure White"/>
-<c m="rgb" r="39" g="41" b="43" n="RAL 9011 - Graphite Black"/>
-<c m="rgb" r="241" g="240" b="234" n="RAL 9016 - Traffic White"/>
-<c m="rgb" r="42" g="41" b="42" n="RAL 9017 - Traffic Black"/>
-<c m="rgb" r="200" g="203" b="196" n="RAL 9018 - Papyrus White"/>
-<c m="rgb" r="133" g="133" b="131" n="RAL 9022 - Pearl Light Grey"/>
-<c m="rgb" r="121" g="123" b="122" n="RAL 9023 - Pearl Dark Grey"/>
+<c m="rgb" r="229" g="225" b="212" n="RAL 9001 - Cream"/>
+<c m="rgb" r="212" g="213" b="205" n="RAL 9002 - Grey White"/>
+<c m="rgb" r="235" g="236" b="234" n="RAL 9003 - Signal White"/>
+<c m="rgb" r="47" g="49" b="51" n="RAL 9004 - Signal Black"/>
+<c m="rgb" r="19" g="21" b="22" n="RAL 9005 - Jet Black"/>
+<c m="rgb" r="154" g="157" b="157" n="RAL 9006 - White Aluminium"/>
+<c m="rgb" r="130" g="130" b="128" n="RAL 9007 - Grey Aluminium"/>
+<c m="rgb" r="239" g="238" b="229" n="RAL 9010 - Pure White"/>
+<c m="rgb" r="37" g="40" b="42" n="RAL 9011 - Graphite Black"/>
+<c m="rgb" r="242" g="241" b="225" n="RAL 9012 - Cleanroom White"/>
+<c m="rgb" r="239" g="240" b="235" n="RAL 9016 - Traffic White"/>
+<c m="rgb" r="38" g="38" b="37" n="RAL 9017 - Traffic Black"/>
+<c m="rgb" r="198" g="203" b="198" n="RAL 9018 - Papyrus White"/>
+<c m="rgb" r="129" g="131" b="130" n="RAL 9022 - Pearl Light Grey"/>
+<c m="rgb" r="118" g="119" b="121" n="RAL 9023 - Pearl Dark Grey"/>
 </palette>
 
 </xml>

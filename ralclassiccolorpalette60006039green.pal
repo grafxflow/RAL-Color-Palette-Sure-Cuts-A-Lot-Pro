@@ -1,42 +1,42 @@
 <xml version="1.0">
 
 <palette name=""Ral Classic Color Palette 6000 6039 Green" lock="true">
-<c m="rgb" r="60" g="116" b="96" n="RAL 6000 - Patina Green"/>
-<c m="rgb" r="54" g="103" b="53" n="RAL 6001 - Emerald Green"/>
-<c m="rgb" r="50" g="89" b="40" n="RAL 6002 - Leaf Green"/>
-<c m="rgb" r="80" g="83" b="60" n="RAL 6003 - Olive Green"/>
-<c m="rgb" r="2" g="68" b="66" n="RAL 6004 - Blue Green"/>
-<c m="rgb" r="17" g="66" b="50" n="RAL 6005 - Moss Green"/>
-<c m="rgb" r="60" g="57" b="46" n="RAL 6006 - Grey Olive"/>
-<c m="rgb" r="44" g="50" b="34" n="RAL 6007 - Bottle Green"/>
-<c m="rgb" r="55" g="52" b="42" n="RAL 6008 - Brown Green"/>
-<c m="rgb" r="39" g="53" b="42" n="RAL 6009 - Fir Green"/>
-<c m="rgb" r="77" g="111" b="57" n="RAL 6010 - Grass Green"/>
-<c m="rgb" r="108" g="124" b="89" n="RAL 6011 - Reseda Green"/>
-<c m="rgb" r="48" g="61" b="58" n="RAL 6012 - Black Green"/>
-<c m="rgb" r="125" g="118" b="90" n="RAL 6013 - Reed Green"/>
-<c m="rgb" r="71" g="65" b="53" n="RAL 6014 - Yellow Olive"/>
-<c m="rgb" r="61" g="61" b="54" n="RAL 6015 - Black Olive"/>
-<c m="rgb" r="0" g="105" b="76" n="RAL 6016 - Turquoise Green"/>
-<c m="rgb" r="88" g="127" b="64" n="RAL 6017 - May Green"/>
-<c m="rgb" r="97" g="153" b="59" n="RAL 6018 - Yellow Green"/>
-<c m="rgb" r="185" g="206" b="172" n="RAL 6019 - Pastel Green"/>
-<c m="rgb" r="55" g="66" b="47" n="RAL 6020 - Chrome Green"/>
-<c m="rgb" r="138" g="153" b="119" n="RAL 6021 - Pale Green"/>
-<c m="rgb" r="58" g="51" b="39" n="RAL 6022 - Olive Drab"/>
-<c m="rgb" r="0" g="131" b="81" n="RAL 6024 - Traffic Green"/>
-<c m="rgb" r="94" g="110" b="59" n="RAL 6025 - Fern Green"/>
-<c m="rgb" r="0" g="95" b="78" n="RAL 6026 - Opal Green"/>
-<c m="rgb" r="126" g="186" b="181" n="RAL 6027 - Light Green"/>
-<c m="rgb" r="49" g="84" b="66" n="RAL 6028 - Pine Green"/>
-<c m="rgb" r="0" g="111" b="61" n="RAL 6029 - Mint Green"/>
-<c m="rgb" r="35" g="127" b="82" n="RAL 6032 - Signal Green"/>
-<c m="rgb" r="70" g="135" b="127" n="RAL 6033 - Mint Turquoise"/>
-<c m="rgb" r="122" g="172" b="172" n="RAL 6034 - Pastel Turquoise"/>
-<c m="rgb" r="25" g="77" b="37" n="RAL 6035 - Pearl Green"/>
-<c m="rgb" r="4" g="87" b="75" n="RAL 6036 - Pearl Opal Green"/>
-<c m="rgb" r="0" g="139" b="41" n="RAL 6037 - Pure Green"/>
-<c m="rgb" r="0" g="186" b="26" n="RAL 6038 - Luminous Green"/>
+<c m="rgb" r="74" g="115" b="99" n="RAL 6000 - Patina Green"/>
+<c m="rgb" r="64" g="105" b="58" n="RAL 6001 - Emerald Green"/>
+<c m="rgb" r="59" g="91" b="47" n="RAL 6002 - Leaf Green"/>
+<c m="rgb" r="79" g="85" b="62" n="RAL 6003 - Olive Green"/>
+<c m="rgb" r="33" g="66" b="69" n="RAL 6004 - Blue Green"/>
+<c m="rgb" r="35" g="66" b="53" n="RAL 6005 - Moss Green"/>
+<c m="rgb" r="60" g="61" b="50" n="RAL 6006 - Grey Olive"/>
+<c m="rgb" r="46" g="53" b="38" n="RAL 6007 - Bottle Green"/>
+<c m="rgb" r="51" g="51" b="39" n="RAL 6008 - Brown Green"/>
+<c m="rgb" r="42" g="55" b="44" n="RAL 6009 - Fir Green"/>
+<c m="rgb" r="78" g="110" b="57" n="RAL 6010 - Grass Green"/>
+<c m="rgb" r="106" g="124" b="91" n="RAL 6011 - Reseda Green"/>
+<c m="rgb" r="47" g="59" b="57" n="RAL 6012 - Black Green"/>
+<c m="rgb" r="119" g="118" b="89" n="RAL 6013 - Reed Green"/>
+<c m="rgb" r="69" g="67" b="57" n="RAL 6014 - Yellow Olive"/>
+<c m="rgb" r="60" g="63" b="56" n="RAL 6015 - Black Olive"/>
+<c m="rgb" r="37" g="103" b="83" n="RAL 6016 - Turquoise Green"/>
+<c m="rgb" r="92" g="129" b="68" n="RAL 6017 - May Green"/>
+<c m="rgb" r="104" g="154" b="69" n="RAL 6018 - Yellow Green"/>
+<c m="rgb" r="184" g="207" b="173" n="RAL 6019 - Pastel Green"/>
+<c m="rgb" r="59" g="70" b="52" n="RAL 6020 - Chrome Green"/>
+<c m="rgb" r="137" g="155" b="121" n="RAL 6021 - Pale Green"/>
+<c m="rgb" r="59" g="56" b="46" n="RAL 6022 - Olive Drab"/>
+<c m="rgb" r="58" g="130" b="88" n="RAL 6024 - Traffic Green"/>
+<c m="rgb" r="93" g="112" b="62" n="RAL 6025 - Fern Green"/>
+<c m="rgb" r="13" g="89" b="81" n="RAL 6026 - Opal Green"/>
+<c m="rgb" r="136" g="181" b="179" n="RAL 6027 - Light Green"/>
+<c m="rgb" r="61" g="85" b="71" n="RAL 6028 - Pine Green"/>
+<c m="rgb" r="34" g="108" b="69" n="RAL 6029 - Mint Green"/>
+<c m="rgb" r="65" g="126" b="87" n="RAL 6032 - Signal Green"/>
+<c m="rgb" r="86" g="132" b="128" n="RAL 6033 - Mint Turquoise"/>
+<c m="rgb" r="134" g="169" b="173" n="RAL 6034 - Pastel Turquoise"/>
+<c m="rgb" r="46" g="79" b="49" n="RAL 6035 - Pearl Green"/>
+<c m="rgb" r="39" g="81" b="74" n="RAL 6036 - Pearl Opal Green"/>
+<c m="rgb" r="63" g="140" b="61" n="RAL 6037 - Pure Green"/>
+<c m="rgb" r="32" g="163" b="57" n="RAL 6038 - Luminous Green"/>
 <c m="rgb" r="171" g="194" b="81" n="RAL 6039 - Fibrous Green"/>
 </palette>
 
