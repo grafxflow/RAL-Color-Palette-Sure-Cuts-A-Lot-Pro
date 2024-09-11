@@ -1,36 +1,36 @@
 <xml version="1.0">
 
 <palette name="Ral Color Palette 1000 1037 Yellow" lock="true">
-<c m="rgb" r="190" g="189" b="127" n="RAL 1000 - Green Beige"/>
-<c m="rgb" r="194" g="176" b="120" n="RAL 1001 - Beige"/>
-<c m="rgb" r="198" g="166" b="100" n="RAL 1002 - Sand Yellow"/>
-<c m="rgb" r="229" g="198" b="1" n="RAL 1003 - Signal Yellow"/>
-<c m="rgb" r="205" g="164" b="52" n="RAL 1004 - Golden Yellow"/>
-<c m="rgb" r="169" g="131" b="7" n="RAL 1005 - Honey Yellow"/>
-<c m="rgb" r="228" g="160" b="16" n="RAL 1006 - Maize Yellow"/>
-<c m="rgb" r="220" g="157" b="0" n="RAL 1007 - Daffodil Yellow"/>
-<c m="rgb" r="138" g="102" b="66" n="RAL 1011 - Brown Beige"/>
-<c m="rgb" r="199" g="180" b="70" n="RAL 1012 - Lemon Yellow"/>
-<c m="rgb" r="238" g="234" b="205" n="RAL 1013 - Oyster White"/>
-<c m="rgb" r="225" g="204" b="79" n="RAL 1014 - Ivory"/>
-<c m="rgb" r="230" g="214" b="144" n="RAL 1015 - Light Ivory"/>
-<c m="rgb" r="237" g="255" b="33" n="RAL 1016 - Sulfur Yellow"/>
-<c m="rgb" r="245" g="208" b="51" n="RAL 1017 - Saffron Yellow"/>
-<c m="rgb" r="248" g="243" b="43" n="RAL 1018 - Zinc Yellow"/>
-<c m="rgb" r="158" g="151" b="100" n="RAL 1019 - Grey Beige"/>
-<c m="rgb" r="153" g="153" b="80" n="RAL 1020 - Olive Yellow"/>
-<c m="rgb" r="243" g="218" b="11" n="RAL 1021 - Colza Yellow"/>
-<c m="rgb" r="250" g="210" b="1" n="RAL 1023 - Traffic Yellow"/>
-<c m="rgb" r="174" g="160" b="75" n="RAL 1024 - Ochre Yellow"/>
+<c m="rgb" r="205" g="186" b="136" n="RAL 1000 - Green Beige"/>
+<c m="rgb" r="208" g="176" b="132" n="RAL 1001 - Beige"/>
+<c m="rgb" r="210" g="170" b="109" n="RAL 1002 - Sand Yellow"/>
+<c m="rgb" r="249" g="168" b="0" n="RAL 1003 - Signal Yellow"/>
+<c m="rgb" r="228" g="158" b="0" n="RAL 1004 - Golden Yellow"/>
+<c m="rgb" r="203" g="142" b="0" n="RAL 1005 - Honey Yellow"/>
+<c m="rgb" r="226" g="144" b="0" n="RAL 1006 - Maize Yellow"/>
+<c m="rgb" r="232" g="140" b="0" n="RAL 1007 - Daffodil Yellow"/>
+<c m="rgb" r="175" g="128" b="79" n="RAL 1011 - Brown Beige"/>
+<c m="rgb" r="221" g="175" b="39" n="RAL 1012 - Lemon Yellow"/>
+<c m="rgb" r="227" g="217" b="198" n="RAL 1013 - Oyster White"/>
+<c m="rgb" r="221" g="196" b="154" n="RAL 1014 - Ivory"/>
+<c m="rgb" r="230" g="210" b="181" n="RAL 1015 - Light Ivory"/>
+<c m="rgb" r="241" g="221" b="56" n="RAL 1016 - Sulfur Yellow"/>
+<c m="rgb" r="246" g="169" b="80" n="RAL 1017 - Saffron Yellow"/>
+<c m="rgb" r="250" g="202" b="48" n="RAL 1018 - Zinc Yellow"/>
+<c m="rgb" r="164" g="143" b="122" n="RAL 1019 - Grey Beige"/>
+<c m="rgb" r="160" g="143" b="101" n="RAL 1020 - Olive Yellow"/>
+<c m="rgb" r="246" g="182" b="0" n="RAL 1021 - Colza Yellow"/>
+<c m="rgb" r="247" g="181" b="0" n="RAL 1023 - Traffic Yellow"/>
+<c m="rgb" r="186" g="143" b="76" n="RAL 1024 - Ochre Yellow"/>
 <c m="rgb" r="255" g="255" b="0" n="RAL 1026 - Luminous Yellow"/>
-<c m="rgb" r="157" g="145" b="1" n="RAL 1027 - Curry"/>
-<c m="rgb" r="244" g="169" b="0" n="RAL 1028 - Melon Yellow"/>
-<c m="rgb" r="214" g="174" b="1" n="RAL 1032 - Broom Yellow"/>
-<c m="rgb" r="243" g="165" b="5" n="RAL 1033 - Dahlia Yellow"/>
-<c m="rgb" r="239" g="169" b="74" n="RAL 1034 - Pastel Yellow"/>
-<c m="rgb" r="106" g="93" b="77" n="RAL 1035 - Pearl Beige"/>
-<c m="rgb" r="112" g="83" b="53" n="RAL 1036 - Pearl Gold"/>
-<c m="rgb" r="243" g="159" b="24" n="RAL 1037 - Sun Yellow"/>
+<c m="rgb" r="167" g="127" b="14" n="RAL 1027 - Curry"/>
+<c m="rgb" r="255" g="155" b="0" n="RAL 1028 - Melon Yellow"/>
+<c m="rgb" r="226" g="163" b="0" n="RAL 1032 - Broom Yellow"/>
+<c m="rgb" r="249" g="154" b="28" n="RAL 1033 - Dahlia Yellow"/>
+<c m="rgb" r="235" g="156" b="82" n="RAL 1034 - Pastel Yellow"/>
+<c m="rgb" r="144" g="131" b="112" n="RAL 1035 - Pearl Beige"/>
+<c m="rgb" r="128" g="100" b="63" n="RAL 1036 - Pearl Gold"/>
+<c m="rgb" r="240" g="146" b="0" n="RAL 1037 - Sun Yellow"/>
 </palette>
 
 </xml>
